@@ -6,7 +6,7 @@ typedef int KEY;
 
 typedef struct
 {
-    KEY key;
+   KEY key;
 } REGISTERS;
 
 typedef struct
